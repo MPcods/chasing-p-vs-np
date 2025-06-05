@@ -1,5 +1,5 @@
 # P ≠ NP – Forschungsjournal Version 1.0  
-**Lizenz:** Schu-Lizenz 1.4
+**Lizenz:** MP-Lizenz 1.0 
 
 ---
 
