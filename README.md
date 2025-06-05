@@ -18,10 +18,8 @@ Dieses Projekt vereint Theoretische Informatik, Komplexitätstheorie, Mathematik
 **P vs. NP** fragt:  
 Sind alle Probleme, deren Lösungen sich in polynomieller Zeit *prüfen* lassen (NP), auch in polynomieller Zeit *lösbar* (P)?  
 
-Formell:  
-\[
-P \stackrel{?}{=} NP
-\]
+
+*\[P \stackrel{?}{=} NP\]*
 
 - **P:** Menge aller Entscheidungsprobleme, die in polynomieller Zeit deterministisch lösbar sind  
 - **NP:** Menge aller Entscheidungsprobleme, deren Lösungen in polynomieller Zeit verifizierbar sind
